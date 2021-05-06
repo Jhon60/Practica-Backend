@@ -1,0 +1,26 @@
+{
+  "name": "jhon-universidad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhon60/Practica-Backend.git"
+  },
+  "author": "jhon mario",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jhon60/Practica-Backend/issues"
+  },
+  "homepage": "https://github.com/Jhon60/Practica-Backend#readme",
+  "dependencies": {
+    "exceljs": "^4.2.1",
+    "express": "^4.17.1",
+    "nodemailer": "^6.6.0",
+    "pg": "^8.6.0"
+  }
+}
